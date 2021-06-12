@@ -1,0 +1,14 @@
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\EntryTutorial.deps.json
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\EntryTutorial.dll
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\ref\EntryTutorial.dll
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\EntryTutorial.pdb
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.csproj.AssemblyReference.cache
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.AssemblyInfoInputs.cache
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.AssemblyInfo.cs
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.dll
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\ref\EntryTutorial.dll
+C:\Users\fzr60\Documents\projects\xamarin\test\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.pdb
